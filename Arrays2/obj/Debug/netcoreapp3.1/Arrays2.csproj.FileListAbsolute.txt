@@ -1,0 +1,11 @@
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Arrays2\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.exe
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Arrays2\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.deps.json
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Arrays2\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.runtimeconfig.json
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Arrays2\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.runtimeconfig.dev.json
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Arrays2\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.dll
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Arrays2\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.pdb
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Arrays2\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.csprojAssemblyReference.cache
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Arrays2\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.AssemblyInfoInputs.cache
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Arrays2\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.AssemblyInfo.cs
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Arrays2\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.dll
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Arrays2\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.pdb
